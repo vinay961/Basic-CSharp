@@ -1,0 +1,15 @@
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.AssemblyInfoInputs.cache
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.AssemblyInfo.cs
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.sourcelink.json
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\bin\Debug\net8.0\myThirdApp.exe
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\bin\Debug\net8.0\myThirdApp.deps.json
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\bin\Debug\net8.0\myThirdApp.runtimeconfig.json
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\bin\Debug\net8.0\myThirdApp.dll
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\bin\Debug\net8.0\myThirdApp.pdb
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.dll
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\refint\myThirdApp.dll
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.pdb
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\myThirdApp.genruntimeconfig.cache
+C:\Users\Desktop\cSharp\myCSharpProject\myThirdApp\obj\Debug\net8.0\ref\myThirdApp.dll
