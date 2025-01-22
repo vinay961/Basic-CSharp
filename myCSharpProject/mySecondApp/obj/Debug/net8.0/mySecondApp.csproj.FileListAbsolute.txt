@@ -1,0 +1,14 @@
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\mySecondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\mySecondApp.AssemblyInfoInputs.cache
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\mySecondApp.AssemblyInfo.cs
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\mySecondApp.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\bin\Debug\net8.0\mySecondApp.exe
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\bin\Debug\net8.0\mySecondApp.deps.json
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\bin\Debug\net8.0\mySecondApp.runtimeconfig.json
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\bin\Debug\net8.0\mySecondApp.dll
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\bin\Debug\net8.0\mySecondApp.pdb
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\mySecondApp.dll
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\refint\mySecondApp.dll
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\mySecondApp.pdb
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\mySecondApp.genruntimeconfig.cache
+C:\Users\Desktop\cSharp\myCSharpProject\mySecondApp\obj\Debug\net8.0\ref\mySecondApp.dll
